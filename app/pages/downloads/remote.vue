@@ -116,9 +116,9 @@
         About Remote on Android
       </h2>
       <p class="text-muted-foreground">
-        An Android version for Cider Remote is planned at some point, but we are currently focused on the iOS version.
+        An Android version for Cider Remote has recently started being worked on. Although an ETA cannot be made yet.
         <br /><br />
-        Also, the team working only on Cider Remote only has iOS developers and would require Android developers for a potential Android version to come out.
+        It's important to note that Cider Remote will have different interfaces (iOS / Android), which both versions are worked by two different people.
       </p>
     </div>
 
@@ -193,9 +193,9 @@
       image: "/remote/Horizontal.png",
     },
     {
-      icon: "heroicons:numbered-list",
-      title: "Queue Management",
-      description: "Manage your playback queue with ease. Remove and reorder tracks in your queue, all from the Remote app.",
+      icon: "heroicons:squares-plus",
+      title: "Animated Covers",
+      description: "Watch with the thinest details the animated covers of your favorite album.",
     },
     {
       icon: "heroicons:microphone",
